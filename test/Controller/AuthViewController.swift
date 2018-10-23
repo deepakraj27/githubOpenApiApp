@@ -16,8 +16,8 @@ class AuthViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         //testing data
-        orgNametextField.text = "prestodb"
-        repositoryNameTextField.text = "presto"
+//        orgNametextField.text = "prestodb"
+//        repositoryNameTextField.text = "presto"
         // Do any additional setup after loading the view.
     }
     
